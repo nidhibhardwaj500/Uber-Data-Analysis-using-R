@@ -1,3 +1,6 @@
+#	Uber Data Analysis Project (Personal Project): This is a Data Visualisation Project using Uber Pickups dataset and ggplot2 library to understand data and developing intuition for understanding customers who avail the trips.
+# The source of project: https://data-flair.training/blogs/r-data-science-project-uber-data-analysis/ 
+
 # Importing essential packages
 install.packages("tidyverse")
 install.packages("ggthemes")
